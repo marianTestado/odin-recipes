@@ -1,0 +1,62 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Homepage */
+
+
+.home{
+    background-color: rgb(176, 231, 238);
+}
+
+.home body{
+    font-size: 32px;
+}
+
+.home .title{
+    text-align: center;
+
+}
+
+.home ul .recipe{
+    background-color: rgb(231, 137, 231);
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium';
+
+}
+
+/* Recipes */
+
+.recipesite{
+    background-color: rgb(255, 198, 198);
+}
+
+.recipesite .title.recipe{
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+
+.recipesite .recipeimage.burguer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 600px;
+}
+
+.recipesite .recipeimage.hotcakes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    width: 600px;
+}
+
+.recipesite .recipeimage.frenchfries{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: auto;
+}
